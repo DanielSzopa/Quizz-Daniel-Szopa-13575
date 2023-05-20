@@ -22,8 +22,8 @@ Funkcjonalności:
 
 Do uruchomienia projektu wystarczy wejść w `my-app` i uruchomić poniższe skrypty, do zainstalowania zależności i potrzebnych paczek aby oraz uruchomić aplikację jako localhost.
 
-### `cd my-app`
+`cd my-app`
 
-### `npm install`
+`npm install`
 
-### `npm start`
+`npm start`
