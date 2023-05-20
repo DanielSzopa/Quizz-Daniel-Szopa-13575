@@ -18,6 +18,12 @@ Funkcjonalności:
 }
 ```
 
+## Screenshoots
+
+![Game](pictures/game.jpg)
+
+![Finish](pictures/finish.jpg)
+
 ## Uruchomienie
 
 Do uruchomienia projektu wystarczy wejść w `my-app` i uruchomić poniższe skrypty, do zainstalowania zależności i potrzebnych paczek aby oraz uruchomić aplikację jako localhost.
